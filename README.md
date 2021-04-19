@@ -24,9 +24,9 @@ emailAddress="Email_Address"
 
 **CentOS:** ```bash reverse_proxy_https_httpd_centos.sh```
 <br><br>
-<img src="https://github.com/tolgaakkapulu/Reverse-Proxy-with-Apache2-Service-for-HTTPS/blob/main/centos.png"><br>
+<img width="40%" src="https://github.com/tolgaakkapulu/Reverse-Proxy-with-Apache2-Service-for-HTTPS/blob/main/centos.png"><br>
 
 **Ubuntu:** ```bash reverse_proxy_https_apache2_ubuntu.sh```
 <br><br>
-<img src="https://github.com/tolgaakkapulu/Reverse-Proxy-with-Apache2-Service-for-HTTPS/blob/main/ubuntu.png">
+<img width="40%" src="https://github.com/tolgaakkapulu/Reverse-Proxy-with-Apache2-Service-for-HTTPS/blob/main/ubuntu.png">
 
